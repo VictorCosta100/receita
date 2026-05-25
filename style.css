@@ -1,13 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: #f3e5d7;
 }
-body>div{
+body > div {
     background-color: #fff;
     max-width: 736px;
     margin-inline: auto;
@@ -18,8 +18,10 @@ body>div{
 
 div img {
     width: 100%";
+    border-radius: 12px;
+    margin-bottom: 40px;
 }
 
-h1, h2{
+h1, h2 {
     font-family: 'lora', serif;
 }
